@@ -12,7 +12,7 @@
 <input type="submit" value ="restaurants">
 </input>
 </form>
-<form action="index.html">
+<form action="default.php">
 <input type="submit" value ="log out">
 </input>
 </form>
