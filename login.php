@@ -6,9 +6,9 @@ $inputpass = $_POST['pass'];
 
 $user = "root";
 $password = "";
-$database = "fooda";
+$database = "a8663810_users";
 
-$connect = mysql_connect("localhost", $user, $password);
+$connect = mysql_connect("mysql4.000webhost.com", "a8663810_nick", "nick12");
 @mysql_select_db($database) or ("Database not found");
 
 
